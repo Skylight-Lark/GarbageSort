@@ -13,7 +13,7 @@
 
 #### 参与贡献
 
-1.  Skylight_Lark 创建 本仓库
+1.  Skylight-Lark 创建 本仓库
 2.  新建 master 分支
 3.  提交代码
 
